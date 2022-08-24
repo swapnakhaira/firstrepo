@@ -1,1 +1,2 @@
 this is my first git repository 
+making some changes after commiting it
